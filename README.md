@@ -27,7 +27,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"width="40" height="40" />     
         </p>
     <h3>Mobile develoment:</h3>
         <p>
