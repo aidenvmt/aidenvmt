@@ -2,9 +2,6 @@
 
 <h3 align="center">An spanish full stack dev who loves learning new techs😉</h3>
 
-
-<hr>
-
 <h2>About me</h2>
 <h4>
     <ul>
@@ -14,8 +11,6 @@
     </ul>
     
 </h4>
-
-<hr>
 
 </h4>
     <h2 align="left">Languages and Tools:</h3>
