@@ -5,7 +5,7 @@
 <h2>About me:</h2>
 <h4>
     <ul>
-        <li>Learning new technologies brings me different ways of making new things</li>
+        <li>Learning new technologies brings me different ways of making projects</li>
         <li>Cybersecurity helps me to make more secure apps </li>
         <li>Mobile and web development are my main areas</li>
     </ul>
